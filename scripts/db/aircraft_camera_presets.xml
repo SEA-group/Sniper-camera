@@ -159,7 +159,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
@@ -375,7 +375,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
@@ -591,7 +591,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
@@ -807,7 +807,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
@@ -1023,7 +1023,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
@@ -1239,7 +1239,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
@@ -1455,7 +1455,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
@@ -1671,7 +1671,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
@@ -2076,7 +2076,7 @@
         </normalZoomData>
         <sniperZoomData>
           <position>0 0 -0.5</position>
-          <fovPercent>0.1</fovPercent>
+          <fovPercent>0.2</fovPercent>
           <angle>0.0</angle>
           <hideModel>	1	</hideModel>
         </sniperZoomData>
